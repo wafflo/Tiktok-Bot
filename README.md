@@ -9,7 +9,7 @@ Step 2: Install pip, discord.py and screen.
 
 
 
-Step 3: Make a new file and paste the code from the "ttbot.py" file and then get your bot token and replace "TOKEN_HERE" with your bots token and save the file.
+Step 3: Make a new file and paste the code from the any file and then get your bot token and replace "TOKEN_HERE" with your bots token and save the file.
 
 
 
